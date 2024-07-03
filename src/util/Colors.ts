@@ -41,3 +41,4 @@ export const colors = {
         whitebright: "\x1b[0;107m"
     }
 };
+
